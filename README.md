@@ -23,3 +23,12 @@ The major challenge in doing so is that we must make our Wi-Fi Channels on the t
 
 ![Usage Image #1](/images/usage1.PNG)
 ![Usage Image #2](/images/usage2.PNG)
+
+#### Vision
+
+![Vision Image #1](/images/vision1.PNG)
+![Vision Image #2](/images/vision2.PNG)
+
+#### Keep Innovating
+
+![End Image](/images/end.PNG)
