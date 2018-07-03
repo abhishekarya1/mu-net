@@ -5,7 +5,7 @@ The idea is to overlap wireless signals (in particular the Wi-Fi signals) such t
 
 This kind of a network provides a platform to deploy _Mumblr_ and acts as an overlay network for the _Mumblr_ data and its flow over mu-net.
 
-![Challenges](/images/challenges.png)
+![Challenges](/images/challenges.PNG)
 
 #### Challenges
 The major challenge in doing so is that we must make our Wi-Fi Channels on the target overlapping networks on the same channel in order to achieve maximum connectivity, and it is contrary to the fact that the interferences resulting from the signals on the same channel can dampen each of them by a large extent.
